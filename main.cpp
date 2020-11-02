@@ -18,7 +18,7 @@ int main()
 
 		cout << "Num. de clase: " << clasenum << endl;
 		cout << endl;
-		cout << "1. Cambiar numero de clase" << endl;
+		cout << "1. Cambiar numero de clase." << endl;
 		cout << "2. Ingresar alumno." << endl;
 		cout << "3. Ver alumnos." << endl;
 		cout << "4. Ingresar asistencia." << endl;
